@@ -12,11 +12,11 @@ output_dir = "../previsioni/"
 
 # Dictionary of weekdays
 weekdays_dict = {
-    0: "LUNEDI'",
-    1: "MARTEDI'",
-    2: "MERCOLEDI'",
-    3: "GIOVEDI'",
-    4: "VENERDI'",
+    0: "LUNEDÌ",
+    1: "MARTEDÌ",
+    2: "MERCOLEDÌ",
+    3: "GIOVEDÌ",
+    4: "VENERDÌ",
     5: "SABATO",
     6: "DOMENICA",
 }
